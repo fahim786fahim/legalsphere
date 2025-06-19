@@ -951,7 +951,7 @@
         <mxCell id="_6LgRc_EfCftO7fttyzY-75" value="" style="strokeWidth=6;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="2410" y="-1100" width="50" height="3820" as="geometry" />
         </mxCell>
-        <mxCell id="_6LgRc_EfCftO7fttyzY-76" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Tenant &lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Information&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_6LgRc_EfCftO7fttyzY-76" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Party1 : Tenant &lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Information&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1973.38" y="710" width="766.76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_6LgRc_EfCftO7fttyzY-77" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Pic&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1234,7 +1234,7 @@
         <mxCell id="_6LgRc_EfCftO7fttyzY-199" value="" style="strokeWidth=6;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="2404.25" y="-102.25" width="50" height="3808.5" as="geometry" />
         </mxCell>
-        <mxCell id="_6LgRc_EfCftO7fttyzY-200" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Owner&amp;nbsp;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Information&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_6LgRc_EfCftO7fttyzY-200" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Party2 :&amp;nbsp;Owner&amp;nbsp;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Information&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1936.02" y="1702" width="766.76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_6LgRc_EfCftO7fttyzY-201" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Pic&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1558,7 +1558,7 @@
         <mxCell id="_6LgRc_EfCftO7fttyzY-477" value="" style="strokeWidth=6;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="2442.95" y="1990" width="50" height="3808.5" as="geometry" />
         </mxCell>
-        <mxCell id="_6LgRc_EfCftO7fttyzY-478" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Property&amp;nbsp;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Information&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_6LgRc_EfCftO7fttyzY-478" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Clause&amp;nbsp;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;Information&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1974.72" y="3794.25" width="766.76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_6LgRc_EfCftO7fttyzY-479" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=6;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;fillColor=light-dark(#000000,#003366);strokeColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
